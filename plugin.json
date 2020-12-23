@@ -1,7 +1,7 @@
 {
   "name": "AlexHubPlugin",
   "author": "alex",
-  "main": "example.AlexHubPlugin",
+  "main": "alexhub.AlexHubPlugin",
   "description": "A plugin to AlexHubPlugin features.",
   "version": 1.0
 }
